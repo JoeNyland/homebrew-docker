@@ -1,9 +1,9 @@
 class DockerRemoveDanglingImages < Formula
   desc "Clear up any dangling Docker images"
   homepage "https://gist.github.com/JoeNyland/4c8576334a5187224c84b54a101b7b5a"
-  url "https://gist.github.com/JoeNyland/4c8576334a5187224c84b54a101b7b5a/archive/1617a4ec666f9bf8511adf2bf2267728ea970d3c.zip"
-  version '0.0.1'
-  sha256 "af467e3d8ae9a05dd59404941af906267c94c459a30644880cd3a754a7d490f2"
+  url "https://gist.github.com/JoeNyland/4c8576334a5187224c84b54a101b7b5a/archive/82b6b838f9b54b332a4bd66ef4924a05472798de.zip"
+  version '0.0.2'
+  sha256 "0fe249388edcbc66ee46313b9cf6352a25ad6dde52e6957efc0fd47f6e4fa7f8"
   head "https://gist.github.com/JoeNyland/4c8576334a5187224c84b54a101b7b5a.git"
 
   def install
