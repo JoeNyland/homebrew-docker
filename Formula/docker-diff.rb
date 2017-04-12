@@ -2,7 +2,7 @@ class DockerDiff < Formula
   desc "Compare Docker images"
   homepage "https://github.com/JoeNyland/docker-diff"
   url "https://github.com/JoeNyland/docker-diff/archive/v1.1.tar.gz"
-  sha256 "21826141f9161f66a14f38c617a7f9c459d34439c47daf7029ea7a8ec83dc8c2"
+  sha256 "47c728149a206526a9f9eedb58bab18f47744635749b5d218f6c57cca4fdf710"
   head "https://github.com/JoeNyland/docker-diff.git"
   def install
     bin.install "docker-diff"
